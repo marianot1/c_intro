@@ -4,8 +4,8 @@ main() {
     int x;
     
     printf("Imgrese valor: ");
-    scanf("%d",&x);
-    printf("usted ingreso: %d",x);
+    //scanf("%d",&x);
+    printf("usted ingreso: %d",10);
     
 }
 
